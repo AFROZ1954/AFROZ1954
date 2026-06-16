@@ -1,14 +1,14 @@
-Hi, I'm Afroz Fatima 👋
+# Hi, I'm Afroz Fatima 👋
 
 I am a Biomedical Engineering researcher with a Bachelor's degree in Electrical Engineering and a Master's degree in Biomedical Engineering.
 My research interests include EEG Signal Processing, Machine Learning, Brain-Computer Interface, and AI-based healthcare technologies.
 Currently, I am working on biomedical signals, EEG analysis, hydrogel-based biosensors, and machine learning applications in neuroscience.
 
-## Education :
+## Education 
 - B.Tech in Electrical Engineering 
 - M.Tech in Biomedical Engineering
 
-## Research Interests:
+## Research Interests
 - EEG Signal Processing
 - Machine Learning for Healthcare
 - Brain-Computer Interface
