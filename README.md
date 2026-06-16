@@ -26,3 +26,7 @@ Currently, I am working on biomedical signals, EEG analysis, hydrogel-based bios
 
 ## Current Focus
 I am building my research profile in biomedical signal processing, AI for healthcare, and neurotechnology.
+
+## Certificates
+
+You can view my certificates here: [Certificates](https://github.com/AFROZ1954/Certificates)
