@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Afroz Fatima 👋
 
-<!--
-**AFROZ1954/AFROZ1954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Biomedical Engineering researcher with a Bachelor's degree in Electrical Engineering and a Master's degree in Biomedical Engineering.
+My research interests include EEG Signal Processing, Machine Learning, Brain-Computer Interface, and AI-based healthcare technologies.
+Currently, I am working on biomedical signals, EEG analysis, hydrogel-based biosensors, and machine learning applications in neuroscience.
 
-Here are some ideas to get you started:
+Education :
+B.Tech in Electrical Engineering and
+M.Tech in Biomedical Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Research Interests:
+EEG Signal Processing;
+Machine Learning for Healthcare;
+Brain-Computer Interface;
+Biomedical Signal Analysis;
+Wearable Biosensors and
+Neural Engineering
+
+Skills
+Python;
+MATLAB;
+Machine Learning;
+Deep Learning;
+Signal Processing and
+EEG Data Analysis
+
+Current Focus
+I am building my research profile in biomedical signal processing, AI for healthcare, and neurotechnology.
