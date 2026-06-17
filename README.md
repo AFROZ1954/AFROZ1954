@@ -28,5 +28,8 @@ Currently, I am working on biomedical signals, EEG analysis, hydrogel-based bios
 I am building my research profile in biomedical signal processing, AI for healthcare, and neurotechnology.
 
 ## Certificates
-
 You can view my certificates here: [Certificates](https://github.com/AFROZ1954/Certificates)
+
+## Projects
+
+- [EEG-Based Schizophrenia Detection](https://github.com/AFROZ1954/EEG-Schizophrenia-Detection)
